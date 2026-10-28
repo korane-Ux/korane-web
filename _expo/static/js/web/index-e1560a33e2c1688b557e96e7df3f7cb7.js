@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return u}});var n=r(d[0]),t=r(d[1]),o=r(d[2]);function u(){const u=(0,t.useApp)(n=>n.onboarded);return(0,o.jsx)(n.Redirect,{href:u?'/learn':'/onboarding'})}},760,[775,782,6]);
